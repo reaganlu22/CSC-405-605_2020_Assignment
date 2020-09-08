@@ -7,7 +7,7 @@
 # Create a folder within the repository /Assignment_1
 
 # Create two folders /src and /data
-  ##Work on your assignment (under /src)
-  ##IPython notebook only(.ipynb). Python will not do (.py).
+  ## Work on your assignment (under /src)
+  ## IPython notebook only(.ipynb). Python will not do (.py).
 # Comment your code appropriately in Markdown.
 # Enter the link to your assignment solution in the assignment text entry once you are done with your solution.
